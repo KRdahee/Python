@@ -1,2 +1,1 @@
-PythonPreTraining/** linguist-documentation=false
-PythonPreTraining/** linguist-vendored=false
+*.python linguist-detectable=true
