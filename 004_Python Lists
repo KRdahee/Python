@@ -92,3 +92,19 @@ Tuple is a collection which is ordered and unchangeable. Allows duplicate member
 Set is a collection which is unordered, unchangeable*, and unindexed. No duplicate members.
 Dictionary is a collection which is ordered** and changeable. No duplicate members.
 
+
+
+Python Comments (주석)
+
+#This is a comment
+#written in
+#more than just one line
+print("Hello, World!")
+
+"""
+This is a comment
+written in
+more than just one line
+"""
+print("Hello, World!")
+
