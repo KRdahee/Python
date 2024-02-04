@@ -1,2 +1,1 @@
-# PythonPreTraining
-Pre-Training 수업 기록 & 복습용
+# Python 공부 기록
